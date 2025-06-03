@@ -1,4 +1,4 @@
-
+Giới thiệu về web
 Web làm về thuật toán mã hóa và giải mã AES
 1.CHỨC NĂNG CỦA ỨNG DỤNG
 -Giai mã lại file về lại dạng _txt
